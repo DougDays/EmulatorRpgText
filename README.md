@@ -1,2 +1,3 @@
-# Merdded
-Brincando de fazer joguinho
+# EmulatorRpgText
+Making a text rpg emulator in c++,
+
